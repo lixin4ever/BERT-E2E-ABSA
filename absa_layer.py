@@ -243,6 +243,65 @@ class CRF(nn.Module):
 
         return score
 
+    def viterbi_tags(self, logits, mask):
+        """
+
+        :param logits: (bsz, seq_len, num_tags), emission scores
+        :param mask:
+        :return:
+        """
+        _, max_seq_len, num_tags = logits.size()
+
+        # Get the tensors out of the variables
+        logits, mask = logits.data, mask.data
+
+        # Augment transitions matrix with start and end transitions
+        start_tag = num_tags
+        end_tag = num_tags + 1
+        transitions = torch.Tensor(num_tags + 2, num_tags + 2).fill_(-10000.)
+
+        # Apply transition constraints
+        constrained_transitions = (
+                self.transitions * self.constraint_mask[:num_tags, :num_tags] +
+                -10000.0 * (1 - self.constraint_mask[:num_tags, :num_tags])
+        )
+
+        transitions[:num_tags, :num_tags] = constrained_transitions.data
+
+        if self.include_start_end_transitions:
+            transitions[start_tag, :num_tags] = (
+                    self.start_transitions.detach() * self.constraint_mask[start_tag, :num_tags].data +
+                    -10000.0 * (1 - self.constraint_mask[start_tag, :num_tags].detach())
+            )
+            transitions[:num_tags, end_tag] = (
+                    self.end_transitions.detach() * self.constraint_mask[:num_tags, end_tag].data +
+                    -10000.0 * (1 - self.constraint_mask[:num_tags, end_tag].detach())
+            )
+        else:
+            transitions[start_tag, :num_tags] = (-10000.0 *
+                                                 (1 - self.constraint_mask[start_tag, :num_tags].detach()))
+            transitions[:num_tags, end_tag] = -10000.0 * (1 - self.constraint_mask[:num_tags, end_tag].detach())
+
+        best_paths = []
+        # Pad the max sequence length by 2 to account for start_tag + end_tag.
+        tag_sequence = torch.Tensor(max_seq_len + 2, num_tags + 2)
+
+        for prediction, prediction_mask in zip(logits, mask):
+            # perform viterbi decoding sample by sample
+            seq_len = torch.sum(prediction_mask)
+            # Start with everything totally unlikely
+            tag_sequence.fill_(-10000.)
+            # At timestep 0 we must have the START_TAG
+            tag_sequence[0, start_tag] = 0.
+            # At steps 1, ..., sequence_length we just use the incoming prediction
+            tag_sequence[1:(seq_len + 1), :num_tags] = prediction[:seq_len]
+            # And at the last timestep we must have the END_TAG
+            tag_sequence[seq_len + 1, end_tag] = 0.
+            viterbi_path = viterbi_decode(tag_sequence[:(seq_len + 2)], transitions)
+            viterbi_path = viterbi_path[1:-1]
+            best_paths.append(viterbi_path)
+        return best_paths
+
 
 class LSTM(nn.Module):
     # customized LSTM with layer normalization
