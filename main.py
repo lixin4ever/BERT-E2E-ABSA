@@ -419,19 +419,15 @@ def main():
     elif args.n_gpu > 1:
         model = torch.nn.DataParallel(model)
 
-    #logger.info("Training/evaluation parameters %s", args)
-
     # Training
     if args.do_train:
         train_dataset, train_evaluate_label_ids = load_and_cache_examples(args, args.task_name, tokenizer, mode='train')
         global_step, tr_loss = train(args, train_dataset, model, tokenizer)
-        #logger.info(" global_step = %s, average loss = %s", global_step, tr_loss)
 
     if args.do_train and (args.local_rank == -1 or dist.get_rank() == 0):
         # Create output directory if needed
         if not os.path.exists(args.output_dir) and args.local_rank in [-1, 0]:
             os.makedirs(args.output_dir)
-        #logger.info("Saving model checkpoint to %s", args.output_dir)
 
         model_to_save = model.module if hasattr(model, 'module') else model
         model_to_save.save_pretrained(args.output_dir)
