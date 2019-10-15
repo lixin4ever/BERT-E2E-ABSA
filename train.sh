@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 TASK_NAME=rest_total
 ABSA_TYPE=tfm
-CUDA_VISIBLE_DEVICES=0,1,2 python main.py --model_type bert \
+CUDA_VISIBLE_DEVICES=0,2,3 python main.py --model_type bert \
                          --absa_type ${ABSA_TYPE} \
                          --tfm_mode finetune \
                          --fix_tfm 0 \
@@ -13,7 +13,7 @@ CUDA_VISIBLE_DEVICES=0,1,2 python main.py --model_type bert \
                          --learning_rate 2e-5 \
                          --do_train \
                          --do_eval \
-                         --do_lowercase \
+                         --do_lower_case \
                          --tagging_schema BIEOS \
                          --overfit 0 \
                          --overwrite_output_dir \
