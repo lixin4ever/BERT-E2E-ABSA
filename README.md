@@ -1,6 +1,6 @@
 # BERT-E2E-ABSA
 Exploiting **BERT** **E**nd-**t**o-**E**nd **A**spect-**B**ased **S**entiment **A**nalysis
-![Overall Architecture](architecture.jpg)
+![XXX](architecture.jpg=34x40)
 
 ## Requirements
 * python 3.7.3
