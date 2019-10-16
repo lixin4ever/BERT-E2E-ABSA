@@ -1,5 +1,5 @@
 # BERT-E2E-ABSA
-Exploiting Bert End-to-End Aspect-Based Sentiment Analysis
+Exploiting **BERT** **E**nd-**t**o-**E**nd **A**spect-**B**ased **S**entiment **A**nalysis
 
 ## Requirements
 * python==3.7.3
