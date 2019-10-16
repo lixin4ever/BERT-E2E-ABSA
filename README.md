@@ -39,4 +39,22 @@ Exploiting **BERT** **E**nd-**t**o-**E**nd **A**spect-**B**ased **S**entiment **
   2. set $TASK_NAME in "train.sh" as [YOUR_DATASET_NAME].
   
   3. train the model:  sh train.sh
+
+## Environment
+* OS: REHL Server 6.4 (Santiago)
+* GPU: NVIDIA GTX 1080 ti
+* CUDA: 10.0
+* cuDNN: v7.6.1
+
+
+## Citation
+If the code is used in your research, please star our repo and cite our paper as follows:
+```
+@article{li2019exploiting,
+  title={Exploiting BERT for End-to-End Aspect-based Sentiment Analysis},
+  author={Li, Xin and Bing, Lidong and Zhang, Wenxuan and Lam, Wai},
+  journal={arXiv preprint arXiv:1910.00883},
+  year={2019}
+}
+```
      
