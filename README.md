@@ -1,5 +1,6 @@
 # BERT-E2E-ABSA
 Exploiting **BERT** **E**nd-**t**o-**E**nd **A**spect-**B**ased **S**entiment **A**nalysis
+![Overall Architecture](./image/architecture.jpg)
 
 ## Requirements
 * python 3.7.3
@@ -17,3 +18,25 @@ Exploiting **BERT** **E**nd-**t**o-**E**nd **A**spect-**B**ased **S**entiment **
   - Recurrent Neural Networks (GRU)
   - Self-Attention Networks (SAN, TFM)
   - Conditional Random Fields (CRF)
+
+## Dataset
+* Restaurant: retaurant reviews from SemEval 2014 (task 4), SemEval 2015 (task 12) and SemEval 2016 (task 5)
+* Laptop: laptop reviews from SemEval 2014
+
+
+## Quick Start
+* Reproduce the results on Restaurant and Laptop dataset:
+  ```
+  # train the model with 5 different seed numbers
+  python fast_run.py 
+  ```
+* Train the model on other ABSA dataset:
+  
+  1. place data files in the directory ./data/[YOUR_DATASET_NAME].
+  
+  2. set $TASK_NAME in "train.sh" as [YOUR_DATASET_NAME].
+  
+  3. train the model:
+     ```
+     sh train.sh
+     ```
