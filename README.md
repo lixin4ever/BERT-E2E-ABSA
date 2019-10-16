@@ -1,6 +1,10 @@
 # BERT-E2E-ABSA
 Exploiting **BERT** **E**nd-**t**o-**E**nd **A**spect-**B**ased **S**entiment **A**nalysis
-![XXX](architecture.jpg=34x40)
+<p>
+  <div style="text-align:center">
+    <img src="architecture.jpg" height="400"/>
+  </div>
+</p>
 
 ## Requirements
 * python 3.7.3
