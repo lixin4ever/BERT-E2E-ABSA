@@ -1,6 +1,6 @@
 # BERT-E2E-ABSA
 Exploiting **BERT** **E**nd-**t**o-**E**nd **A**spect-**B**ased **S**entiment **A**nalysis
-![Overall Architecture](./image/architecture.jpg)
+![Overall Architecture](architecture.jpg)
 
 ## Requirements
 * python 3.7.3
@@ -36,7 +36,5 @@ Exploiting **BERT** **E**nd-**t**o-**E**nd **A**spect-**B**ased **S**entiment **
   
   2. set $TASK_NAME in "train.sh" as [YOUR_DATASET_NAME].
   
-  3. train the model:
-     ```
-     sh train.sh
-     ```
+  3. train the model:  sh train.sh
+     
