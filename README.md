@@ -34,11 +34,11 @@ Exploiting **BERT** **E**nd-**t**o-**E**nd **A**spect-**B**ased **S**entiment **
   ```
 * Train the model on other ABSA dataset:
   
-  1. place data files in the directory ./data/[YOUR_DATASET_NAME].
+  1. place data files in the directory `./data/[YOUR_DATASET_NAME]`.
   
-  2. set $TASK_NAME in "train.sh" as [YOUR_DATASET_NAME].
+  2. set `TASK_NAME` in `train.sh` as `[YOUR_DATASET_NAME]`.
   
-  3. train the model:  sh train.sh
+  3. train the model:  `sh train.sh`
 
 ## Environment
 * OS: REHL Server 6.4 (Santiago)
