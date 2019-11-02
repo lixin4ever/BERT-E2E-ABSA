@@ -427,7 +427,7 @@ def main():
     if args.do_train and (args.local_rank == -1 or dist.get_rank() == 0):
         # Create output directory if needed
         if not os.path.exists(args.output_dir) and args.local_rank in [-1, 0]:
-            os.makedirs(args.output_dir)
+            os.mkdir(args.output_dir)
 
         model_to_save = model.module if hasattr(model, 'module') else model
         model_to_save.save_pretrained(args.output_dir)
