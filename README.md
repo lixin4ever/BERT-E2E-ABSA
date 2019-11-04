@@ -50,11 +50,16 @@ Exploiting **BERT** **E**nd-**t**o-**E**nd **A**spect-**B**ased **S**entiment **
 ## Citation
 If the code is used in your research, please star our repo and cite our paper as follows:
 ```
-@article{li2019exploiting,
-  title={Exploiting BERT for End-to-End Aspect-based Sentiment Analysis},
-  author={Li, Xin and Bing, Lidong and Zhang, Wenxuan and Lam, Wai},
-  journal={arXiv preprint arXiv:1910.00883},
-  year={2019}
+@inproceedings{li-etal-2019-exploiting,
+    title = "Exploiting {BERT} for End-to-End Aspect-based Sentiment Analysis",
+    author = "Li, Xin  and
+      Bing, Lidong  and
+      Zhang, Wenxuan  and
+      Lam, Wai",
+    booktitle = "Proceedings of the 5th Workshop on Noisy User-generated Text (W-NUT 2019)",
+    year = "2019",
+    url = "https://www.aclweb.org/anthology/D19-5505",
+    pages = "34--41"
 }
 ```
      
