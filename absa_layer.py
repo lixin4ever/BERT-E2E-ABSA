@@ -390,7 +390,7 @@ class BertABSATagger(BertPreTrainedModel):
         self.tagger_config.absa_type = bert_config.absa_type.lower()
         if bert_config.tfm_mode == 'finetune':
             # initialized with pre-trained BERT and perform finetuning
-            print("Fine-tuning the pre-trained BERT...")
+            # print("Fine-tuning the pre-trained BERT...")
             self.bert = BertModel(bert_config)
         else:
             raise Exception("Invalid transformer mode %s!!!" % bert_config.tfm_mode)
