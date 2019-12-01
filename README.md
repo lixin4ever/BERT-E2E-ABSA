@@ -40,6 +40,16 @@ Exploiting **BERT** **E**nd-**t**o-**E**nd **A**spect-**B**ased **S**entiment **
   
   3. train the model:  `sh train.sh`
 
+* Perform pure inference/direct transfer over test/unseen data using the trained ABSA model:
+
+  1. place data file in the directory `./data/[YOUR_EVAL_DATASET_NAME]`.
+  
+  2. set `TASK_NAME` in `work.sh` as `[YOUR_EVAL_DATASET_NAME]`
+  
+  3. set `OUTPUT_DIR` in `work.sh` as `[YOUR_ABSA_MODEL_DIRECTORY]`
+  
+  4. run: `sh work.sh`
+
 ## Environment
 * OS: REHL Server 6.4 (Santiago)
 * GPU: NVIDIA GTX 1080 ti
