@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 TASK_NAME="laptop14"
-OUTPUT_DIR="./bert-tfm-rest_total-finetune"
-CUDA_VISIBLE_DEVICES=0 python work.py --output_dir ${OUTPUT_DIR} \
-                      --ckpt ${OUTPUT_DIR}/checkpoint-1400 \
+ABSA_HOME="./bert-tfm-rest_total-finetune"
+CUDA_VISIBLE_DEVICES=0 python work.py --absa_home ${ABSA_HOME} \
+                      --ckpt ${ABSA_HOME}/checkpoint-1400 \
                       --model_type bert \
                       --data_dir ./data/${TASK_NAME} \
                       --task_name ${TASK_NAME} \

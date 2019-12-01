@@ -1,11 +1,10 @@
 import argparse
 import os
 import torch
-import logging
 import numpy as np
 
 from glue_utils import convert_examples_to_seq_features, compute_metrics_absa, ABSAProcessor
-from tqdm import tqdm, trange
+from tqdm import tqdm
 from transformers import BertConfig, BertTokenizer, XLNetConfig, XLNetTokenizer, WEIGHTS_NAME
 from absa_layer import BertABSATagger
 from torch.utils.data import DataLoader, TensorDataset, SequentialSampler
@@ -62,7 +61,7 @@ def load_and_cache_examples(args, task, tokenizer):
 
 def init_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--output_dir", type=str, required=True, help="Directory of tokenizer and config")
+    parser.add_argument("--absa_home", type=str, required=True, help="Home directory of the trained ABSA model")
     parser.add_argument("--ckpt", type=str, required=True, help="Directory of model checkpoint for evaluation")
     parser.add_argument("--data_dir", type=str, required=True,
                         help="The incoming data dir. Should contain the files of test/unseen data")
@@ -99,7 +98,7 @@ def main():
     print("Load checkpoint %s/%s..." % (args.ckpt, WEIGHTS_NAME))
     model = model_class.from_pretrained(args.ckpt)
     # follow the property of tokenizer in the loaded model, e.g., do_lower_case=True
-    tokenizer = tokenizer_class.from_pretrained(args.output_dir)
+    tokenizer = tokenizer_class.from_pretrained(args.absa_home)
     model.to(args.device)
     model.eval()
     predict(args, model, tokenizer)
