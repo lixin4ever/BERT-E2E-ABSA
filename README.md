@@ -40,7 +40,7 @@ Exploiting **BERT** **E**nd-**t**o-**E**nd **A**spect-**B**ased **S**entiment **
   
   3. train the model:  `sh train.sh`
 
-* Perform pure inference/direct transfer over test/unseen data using the trained ABSA model:
+* (** **New feature** **) Perform pure inference/direct transfer over test/unseen data using the trained ABSA model:
 
   1. place data file in the directory `./data/[YOUR_EVAL_DATASET_NAME]`.
   
