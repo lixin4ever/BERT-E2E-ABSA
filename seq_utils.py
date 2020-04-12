@@ -156,7 +156,7 @@ def tag2ts(ts_tag_sequence):
             sentiments.append(sentiment)
         if pos == 'S':
             # singleton
-            ts_sequence.append((i, i, sentiments[0]))
+            ts_sequence.append((i, i, sentiment))
             sentiments = []
         elif pos == 'B':
             beg = i
