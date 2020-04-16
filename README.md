@@ -34,7 +34,7 @@ Exploiting **BERT** **E**nd-**t**o-**E**nd **A**spect-**B**ased **S**entiment **
   ```
 * Train the model on other ABSA dataset:
   
-  1. place data files in the directory `./data/[YOUR_DATASET_NAME]`.
+  1. place data files in the directory `./data/[YOUR_DATASET_NAME]` (please note that you need to re-organize your data files so that it can be directly adapted to this project, following the input format of `./data/laptop14/train.txt` should be OK).
   
   2. set `TASK_NAME` in `train.sh` as `[YOUR_DATASET_NAME]`.
   
