@@ -27,6 +27,14 @@ Exploiting **BERT** **E**nd-**t**o-**E**nd **A**spect-**B**ased **S**entiment **
 
 
 ## Quick Start
+* The valid tagging strategies/schemas (i.e., the ways representing text or entity span) in this project are **BIEOS** (also called **BIOES** or **BMES**), **BIO** (also called **IOB2**) and **OT** (also called **IO**). If you are not familiar with these terms, I strongly recommend you to read the following materials before running the program: 
+
+  a. [Inside–outside–beginning (tagging)](https://en.wikipedia.org/wiki/Inside%E2%80%93outside%E2%80%93beginning_(tagging)). 
+  
+  b. [Representing Text Chunks](https://www.aclweb.org/anthology/E99-1023.pdf). 
+  
+  c. The [paper](https://www.aclweb.org/anthology/D19-5505.pdf) associated with project. 
+
 * Reproduce the results on Restaurant and Laptop dataset:
   ```
   # train the model with 5 different seed numbers
