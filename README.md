@@ -22,8 +22,9 @@ Exploiting **BERT** **E**nd-**t**o-**E**nd **A**spect-**B**ased **S**entiment **
   - Conditional Random Fields (CRF)
 
 ## Dataset
-* Restaurant: retaurant reviews from SemEval 2014 (task 4), SemEval 2015 (task 12) and SemEval 2016 (task 5)
-* Laptop: laptop reviews from SemEval 2014
+* ~~Restaurant: retaurant reviews from SemEval 2014 (task 4), SemEval 2015 (task 12) and SemEval 2016 (task 5) (rest_total)~~
+* (**Important**) Restaurant: restaurant reviews from SemEval 2014 (rest14), restaurant reviews from SemEval 2015 (rest15), restaurant reviews from SemEval 2016 (rest16). Please **DO NOT** use the ```rest_total``` dataset built by ourselves again, more details can be found in Sec. **Updated Results**.
+* Laptop: laptop reviews from SemEval 2014 (laptop14)
 
 
 ## Quick Start
@@ -64,6 +65,20 @@ Exploiting **BERT** **E**nd-**t**o-**E**nd **A**spect-**B**ased **S**entiment **
 * CUDA: 10.0
 * cuDNN: v7.6.1
 
+## Updated results (IMPORTANT)
+* The data files of the ```rest_total``` dataset is created by concatenating the train/test counterparts from ```rest14```, ```rest15``` and ```rest16``` and our motivation is to build a larger training/testing dataset to stabilize the training/faithfully reflect the capability of the ABSA model. However, we recently found that the SemEval organizers directly treat the union set of ```rest15.train``` and ```rest15.test``` as the training set of rest16 (i.e., ```rest16.train```), and thus, there exists overlap between the ```rest_total.train``` and the ```rest_total.test```, which makes this dataset invalid. When you follow our works on this E2E-ABSA task, we hope you **DO NOT** use this ```rest_total``` dataset any more but change to the officially released ```rest14```, ```rest15``` and ```rest16```.
+* To facilitate the comparison in the future, we re-run our models following the above mentioned settings and report the results on ```rest14```, ```rest15``` and ```rest16```:  
+
+    | Model | rest14 | rest15 | rest16 |
+    | --- | --- | --- | --- |
+    | E2E-ABSA (OURS) | 67.10 | 57.27 | 64.31 |
+    | [He et al., 2019](https://arxiv.org/pdf/1906.06906.pdf) | 69.54 | 59.18 | - |
+    | [Liu et al., 2020](https://arxiv.org/pdf/2004.06427.pdf) | 68.91 | 58.37 | - |
+    | BERT-Linear (OURS) | 72.61 | 59.47 | 69.84 |
+    | BERT-GRU (OURS) | 73.17 | 59.54 | 69.53 |
+    | BERT-SAN (OURS) | 73.51 | 59.88 | 70.23 |
+    | [Chen and Qian, 2019](https://www.aclweb.org/anthology/2020.acl-main.340.pdf)| 75.42 | 66.05 | - |
+    | [Liang et al., 2020](https://arxiv.org/pdf/2004.01951.pdf)| 72.60 | 62.37 | - |
 
 ## Citation
 If the code is used in your research, please star our repo and cite our paper as follows:
