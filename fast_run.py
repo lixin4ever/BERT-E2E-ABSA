@@ -1,18 +1,18 @@
 import os
 
-os.environ["CUDA_VISIBLE_DEVICES"] = "0, 2, 3"
+os.environ["CUDA_VISIBLE_DEVICES"] = "3, 1, 2"
 
 seed_numbers = [42, 593, 1774, 65336, 189990]
 model_type = 'bert'
-absa_type = 'tfm'
+absa_type = 'linear'
 tfm_mode = 'finetune'
 fix_tfm = 0
-task_name = 'rest_total'
+task_name = 'rest15'
 warmup_steps = 0
 overfit = 0
 if task_name == 'laptop14':
     train_batch_size = 32
-elif task_name == 'rest_total':
+elif task_name == 'rest_total' or task_name == 'rest14' or task_name == 'rest15' or task_name == 'rest16':
     train_batch_size = 16
 else:
     raise Exception("Unsupported dataset %s!!!" % task_name)

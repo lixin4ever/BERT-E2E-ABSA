@@ -491,9 +491,9 @@ def compute_metrics_absa(preds, labels, all_evaluate_label_ids, tagging_schema):
         n_ts = n_tp_ts[i]
         n_g_ts = n_gold_ts[i]
         n_p_ts = n_pred_ts[i]
-        ts_precision[i] = float(n_ts) / float(n_p_ts + 0.001)
-        ts_recall[i] = float(n_ts) / float(n_g_ts + 0.001)
-        ts_f1[i] = 2 * ts_precision[i] * ts_recall[i] / (ts_precision[i] + ts_recall[i] + 0.001)
+        ts_precision[i] = float(n_ts) / float(n_p_ts + 0.00001)
+        ts_recall[i] = float(n_ts) / float(n_g_ts + 0.00001)
+        ts_f1[i] = 2 * ts_precision[i] * ts_recall[i] / (ts_precision[i] + ts_recall[i] + 0.00001)
 
     macro_f1 = ts_f1.mean()
 
@@ -516,6 +516,10 @@ def compute_metrics_absa(preds, labels, all_evaluate_label_ids, tagging_schema):
 processors = {
     "laptop14": ABSAProcessor,
     "rest_total": ABSAProcessor,
+    "rest_total_revised": ABSAProcessor,
+    "rest14": ABSAProcessor,
+    "rest15": ABSAProcessor,
+    "rest16": ABSAProcessor,
 }
 
 output_modes = {
@@ -533,5 +537,6 @@ output_modes = {
     "rest_total": "classification",
     "rest14": "classification",
     "rest15": "classification",
-    "rest16": "classification"
+    "rest16": "classification",
+    "rest_total_revised": "classification",
 }

@@ -1,0 +1,200 @@
+The duck confit is always amazing and the foie gras terrine with figs was out of this world.####The=O duck=T-POS confit=T-POS is=O always=O amazing=O and=O the=O foie=T-POS gras=T-POS terrine=T-POS with=T-POS figs=T-POS was=O out=O of=O this=O world=O .=O
+I/we will never go back to this place again.####I/we=O will=O never=O go=O back=O to=O this=O place=T-NEG again=O .=O
+Can't wait wait for my next visit.####Ca=O n't=O wait=O wait=O for=O my=O next=O visit=O .=O
+Anyways, if you're in the neighborhood to eat good food, I wouldn't waste my time trying to find something, rather go across the street to Tamari.####Anyways=O ,=O if=O you=O 're=O in=O the=O neighborhood=O to=O eat=O good=O food=O ,=O I=O would=O n't=O waste=O my=O time=O trying=O to=O find=O something=O ,=O rather=O go=O across=O the=O street=O to=O Tamari=O .=O
+We ate outside at Haru's Sake bar because Haru's restaurant next door was overflowing.####We=O ate=O outside=O at=O Haru=O 's=O Sake=O bar=O because=O Haru=O 's=O restaurant=O next=O door=O was=O overflowing=O .=O
+however, it's the service that leaves a bad taste in my mouth.####however=O ,=O it=O 's=O the=O service=T-NEG that=O leaves=O a=O bad=O taste=O in=O my=O mouth=O .=O
+the last time i walked by it looked pretty empty. hmmm.####the=O last=O time=O i=O walked=O by=O it=O looked=O pretty=O empty=O hmmm=O .=O
+I've had the lunch buffet at Chennai a couple of times, when I have been in the neighborhood.####I=O 've=O had=O the=O lunch=O buffet=O at=O Chennai=O a=O couple=O of=O times=O ,=O when=O I=O have=O been=O in=O the=O neighborhood=O .=O
+Price no more than a Jersey deli but way better.####Price=O no=O more=O than=O a=O Jersey=O deli=O but=O way=O better=O .=O
+I am so coming back here again, as much as I can.####I=O am=O so=O coming=O back=O here=O again=O ,=O as=O much=O as=O I=O can=O .=O
+They refuse to seat parties of 3 or more on weekends.####They=O refuse=O to=O seat=O parties=O of=O 3=O or=O more=O on=O weekends=O .=O
+As always we had a great glass of wine while we waited.####As=O always=O we=O had=O a=O great=O glass=T-POS of=T-POS wine=T-POS while=O we=O waited=O .=O
+This place is great.####This=O place=T-POS is=O great=O .=O
+Slightly on the pricey side but worth it!####Slightly=O on=O the=O pricey=O side=O but=O worth=O it=O !=O
+I have been going there since it opened and I can't get enough.####I=O have=O been=O going=O there=O since=O it=O opened=O and=O I=O ca=O n't=O get=O enough=O .=O
+Pizza - the only pizza in NYC that should not have additional toppings - the crust tastes like the best, freshly baked bread!####Pizza=O ,=O the=O only=O pizza=T-POS in=O NYC=O that=O should=O not=O have=O additional=O toppings=O ,=O the=O crust=T-POS tastes=O like=O the=O best=O ,=O freshly=O baked=O bread=O !=O
+Make sure you have the Spicy Scallop roll.. .####Make=O sure=O you=O have=O the=O Spicy=T-POS Scallop=T-POS roll=T-POS .=O
+Told us to sit anywhere, and when we sat he said the table was reserved.####Told=O us=O to=O sit=O anywhere=O ,=O and=O when=O we=O sat=O he=O said=O the=O table=O was=O reserved=O .=O
+Great service, great food.####Great=O service=T-POS ,=O great=O food=T-POS .=O
+Prices are in line.####Prices=O are=O in=O line=O .=O
+I live a block away and go to Patsy's frequently.####I=O live=O a=O block=O away=O and=O go=O to=O Patsy=O 's=O frequently=O .=O
+Over 100 different choices to create your own.####Over=O 100=O different=O choices=O to=O create=O your=O own=O .=O
+Seating is always prompt, though the restaurant does fill up in the evening.####Seating=T-POS is=O always=O prompt=O ,=O though=O the=O restaurant=O does=O fill=O up=O in=O the=O evening=O .=O
+I've never ordered anything else from their menu...there's no need to.####I=O 've=O never=O ordered=O anything=O else=O from=O their=O menuthere=O 's=O no=O need=O to=O .=O
+It's one of our favorite places to eat in NY.####It=O 's=O one=O of=O our=O favorite=O places=O to=O eat=O in=O NY=O .=O
+They were served warm and had a soft fluffy interior.####They=O were=O served=O warm=O and=O had=O a=O soft=O fluffy=O interior=O .=O
+It was wonderful.####It=O was=O wonderful=O .=O
+Great vibe, lots of people.####Great=O vibe=T-POS ,=O lots=O of=O people=O .=O
+Salads were fantastic.####Salads=T-POS were=O fantastic=O .=O
+Went here on a friend's reccomendation.####Went=O here=O on=O a=O friend=O 's=O reccomendation=O .=O
+Right off the L in Brooklyn this is a nice cozy place with good pizza.####Right=O off=O the=O L=O in=O Brooklyn=O this=O is=O a=O nice=O cozy=O place=T-POS with=O good=O pizza=T-POS .=O
+I started out with a Bombay beer which was big enough for two.####I=O started=O out=O with=O a=O Bombay=T-POS beer=T-POS which=O was=O big=O enough=O for=O two=O .=O
+However, I think this place is a good hang out spot.####However=O ,=O I=O think=O this=O place=T-POS is=O a=O good=O hang=O out=O spot=O .=O
+The tables are crammed way too close, the menu is typical of any Italian restaurant, and the wine list is simply overpriced.####The=O tables=T-NEG are=O crammed=O way=O too=O close=O ,=O the=O menu=T-NEU is=O typical=O of=O any=O Italian=O restaurant=O ,=O and=O the=O wine=T-NEG list=T-NEG is=O simply=O overpriced=O .=O
+Not one of our meals was edible - bland and/or made with weird rosemary or orange flavoring.####Not=O one=O of=O our=O meals=T-NEG was=O edible=O ,=O bland=O and/or=O made=O with=O weird=O rosemary=T-NEG or=T-NEG orange=T-NEG flavoring=T-NEG .=O
+I've never had bad service and the fish is fresh and delicious.####I=O 've=O never=O had=O bad=O service=T-POS and=O the=O fish=T-POS is=O fresh=O and=O delicious=O .=O
+The dining room is quietly elegant with no music to shout over -- how refreshing!####The=O dining=T-POS room=T-POS is=O quietly=O elegant=O with=O no=O music=O to=O shout=O over=O -=O how=O refreshing=O !=O
+Beautiful experience.####Beautiful=O experience=O .=O
+The portions are large and the servers always surprise us with a different starter.####The=O portions=T-POS are=O large=O and=O the=O servers=T-POS always=O surprise=O us=O with=O a=O different=O starter=O .=O
+The menu is very limited - i think we counted 4 or 5 entrees.####The=O menu=T-NEG is=O very=O limited=O ,=O i=O think=O we=O counted=O 4=O or=O 5=O entrees=O .=O
+Our family never expected such incredible entertainment in a restaurant.####Our=O family=O never=O expected=O such=O incredible=O entertainment=O in=O a=O restaurant=T-POS .=O
+This place must have cost the owners afortune to build.####This=O place=O must=O have=O cost=O the=O owners=O afortune=O to=O build=O .=O
+I think the stuff was better than Disney.####I=O think=O the=O stuff=O was=O better=O than=O Disney=O .=O
+I highly recommend it.####I=O highly=O recommend=O it=O .=O
+The place is a lot of fun.####The=O place=T-POS is=O a=O lot=O of=O fun=O .=O
+Growing up in NY, I have eaten my share of bagels.####Growing=O up=O in=O NY=O ,=O I=O have=O eaten=O my=O share=O of=O bagels=O .=O
+I thought this place was totally overrated.####I=O thought=O this=O place=T-NEG was=O totally=O overrated=O .=O
+I must give it Yon out of Yon stars!####I=O must=O give=O it=O Yon=O out=O of=O Yon=O stars=O !=O
+The service is ok, some of the people didn't get what they asked for.####The=O service=T-NEU is=O ok=O ,=O some=O of=O the=O people=O did=O n't=O get=O what=O they=O asked=O for=O .=O
+I was there on sat. for my birthday and we had an excellent time.####I=O was=O there=O on=O sat=O for=O my=O birthday=O and=O we=O had=O an=O excellent=O time=O .=O
+Whether it's the parmesean porcini souffle or the lamb glazed with balsamic vinegar, you will surely be transported to Northern Italy with one bite.####Whether=O it=O 's=O the=O parmesean=T-POS porcini=T-POS souffle=T-POS or=O the=O lamb=T-POS glazed=T-POS with=T-POS balsamic=T-POS vinegar=T-POS ,=O you=O will=O surely=O be=O transported=O to=O Northern=O Italy=O with=O one=O bite=O .=O
+Old school meets New world.####Old=O school=O meets=O New=O world=O .=O
+I found the food, service and value exceptional everytime I have been there.####I=O found=O the=O food=T-POS ,=O service=T-POS and=O value=O exceptional=O everytime=O I=O have=O been=O there=O .=O
+Great staff.####Great=O staff=T-POS .=O
+The hostess and the waitress were incredibly rude and did everything they could to rush us out.####The=O hostess=T-NEG and=O the=O waitress=T-NEG were=O incredibly=O rude=O and=O did=O everything=O they=O could=O to=O rush=O us=O out=O .=O
+Will not be back.####Will=O not=O be=O back=O .=O
+Try the sea bass.####Try=O the=O sea=T-POS bass=T-POS .=O
+The dinner was ok, nothing I would have again.####The=O dinner=T-NEG was=O ok=O ,=O nothing=O I=O would=O have=O again=O .=O
+They forgot a sandwich, didn't include plastic forks, and didn't include pita with the hummus platter.####They=O forgot=O a=O sandwich=O ,=O did=O n't=O include=O plastic=O forks=O ,=O and=O did=O n't=O include=O pita=O with=O the=O hummus=O platter=O .=O
+It's a rather cramped and busy restaurant and it closes early.####It=O 's=O a=O rather=O cramped=O and=O busy=O restaurant=T-NEG and=O it=O closes=O early=O .=O
+We were very pleasantly surprised.####We=O were=O very=O pleasantly=O surprised=O .=O
+After dinner the manager grabbed my boyfriend, asked him: Where are you from...maybe you dont know how things work in America...and in the end stormed away almost teareyed yelling that tips are the only thing they survive on.####After=O dinner=O the=O manager=T-NEG grabbed=O my=O boyfriend=O ,=O asked=O him=O ,=O Where=O are=O you=O frommaybe=O you=O do=O n't=O know=O how=O things=O work=O in=O Americaand=O in=O the=O end=O stormed=O away=O almost=O teareyed=O yelling=O that=O tips=O are=O the=O only=O thing=O they=O survive=O on=O .=O
+Pizza here is consistently good.####Pizza=T-POS here=O is=O consistently=O good=O .=O
+Service is average.####Service=T-NEU is=O average=O .=O
+A gentleman, maybe the manager, came to our table, and without so much as a smile or greeting asked for our order.####A=O gentleman=T-NEG ,=O maybe=O the=O manager=O ,=O came=O to=O our=O table=O ,=O and=O without=O so=O much=O as=O a=O smile=O or=O greeting=O asked=O for=O our=O order=O .=O
+When asked about how a certain dish was prepared in comparison to a similar at other thai restaurants, he replied this is not Mcdonald's, every place makes things differently ####When=O asked=O about=O how=O a=O certain=O dish=O was=O prepared=O in=O comparison=O to=O a=O similar=O at=O other=O thai=O restaurants=O ,=O he=O replied=O this=O is=O not=O Mcdonald=O 's=O ,=O every=O place=O makes=O things=O differently=O
+I would highly recommend this place!####I=O would=O highly=O recommend=O this=O place=T-POS !=O
+The food is great and reasonably priced.####The=O food=T-POS is=O great=O and=O reasonably=O priced=O .=O
+My friends and I were on vacation in NY and was referred to Chance by a friend.####My=O friends=O and=O I=O were=O on=O vacation=O in=O NY=O and=O was=O referred=O to=O Chance=O by=O a=O friend=O .=O
+I also ordered the Change Mojito, which was out of this world.####I=O also=O ordered=O the=O Change=T-POS Mojito=T-POS ,=O which=O was=O out=O of=O this=O world=O .=O
+The food was average or above including some surprising tasty dishes.####The=O food=T-POS was=O average=O or=O above=O including=O some=O surprising=O tasty=O dishes=T-POS .=O
+I would recommend Roxy's for that, but not for their food.####I=O would=O recommend=O Roxy=O 's=O for=O that=O ,=O but=O not=O for=O their=O food=T-NEG .=O
+And the Tom Kha soup was pathetic.####And=O the=O Tom=T-NEG Kha=T-NEG soup=T-NEG was=O pathetic=O .=O
+We had the scallops as an appetizer and they were delicious and the sauce was wonderful.####We=O had=O the=O scallops=T-POS as=O an=O appetizer=O and=O they=O were=O delicious=O and=O the=O sauce=T-POS was=O wonderful=O .=O
+I've waited over one hour for food.####I=O 've=O waited=O over=O one=O hour=O for=O food=O .=O
+The food looked very appetizing and delicious since it came on a variety of fancy plates.####The=O food=T-POS looked=O very=O appetizing=O and=O delicious=O since=O it=O came=O on=O a=O variety=O of=O fancy=O plates=O .=O
+Service here was great, food was fantastic.####Service=T-POS here=O was=O great=O ,=O food=T-POS was=O fantastic=O .=O
+We all agreed that mare is one of the best seafood restaurants in New York.####We=O all=O agreed=O that=O mare=T-POS is=O one=O of=O the=O best=O seafood=O restaurants=O in=O New=O York=O .=O
+I ordered the smoked salmon and roe appetizer and it was off flavor.####I=O ordered=O the=O smoked=T-NEG salmon=T-NEG and=T-NEG roe=T-NEG appetizer=T-NEG and=O it=O was=O off=O flavor=O .=O
+Delicious crab cakes too.####Delicious=O crab=T-POS cakes=T-POS too=O .=O
+The sandwiches are dry, tasteless and way overpriced.####The=O sandwiches=T-NEG are=O dry=O ,=O tasteless=O and=O way=O overpriced=O .=O
+The atmosphere is unheralded, the service impecible, and the food magnificant.####The=O atmosphere=T-POS is=O unheralded=O ,=O the=O service=T-POS impecible=O ,=O and=O the=O food=T-POS magnifica=O n't=O .=O
+The food is good, especially their more basic dishes, and the drinks are delicious.####The=O food=T-POS is=O good=O ,=O especially=O their=O more=O basic=T-POS dishes=T-POS ,=O and=O the=O drinks=T-POS are=O delicious=O .=O
+This is a great place to take out-of-towners, and perfect for watching the sunset.####This=O is=O a=O great=O place=T-POS to=O take=O out-of-towners=O ,=O and=O perfect=O for=O watching=O the=O sunset=O .=O
+Great sushi experience.####Great=O sushi=T-POS experience=O .=O
+Murray won't do it.####Murray=O wo=O n't=O do=O it=O .=O
+Won't or Can't is not in the service directory.####Wo=O n't=O or=O Ca=O n't=O is=O not=O in=O the=O service=O directory=O .=O
+Bagels are ok, but be sure not to make any special requests!####Bagels=T-NEU are=O ok=O ,=O but=O be=O sure=O not=O to=O make=O any=O special=O requests=O !=O
+The fish was adequate, but inexpertly sliced.####The=O fish=T-NEG was=O adequate=O ,=O but=O inexpertly=O sliced=O .=O
+I thought going to Jimmys would give me a real Domincan exprience.####I=O thought=O going=O to=O Jimmys=O would=O give=O me=O a=O real=O Domincan=O exprience=O .=O
+For authentic Thai food, look no further than Toons.####For=O authentic=O Thai=T-POS food=T-POS ,=O look=O no=O further=O than=O Toons=O .=O
+I did not try the caviar but I tried their salmon and crab salad (they are all good)  ####I=O did=O not=O try=O the=O caviar=O but=O I=O tried=O their=O salmon=T-POS and=O crab=T-POS salad=T-POS they=O are=O all=O good=O
+The wait staff is pleasant, fun, and for the most part gorgeous (in the wonderful aesthetic beautification way, not in that she's-way-cuter-than-me-that-b@#$* way).####The=O wait=T-POS staff=T-POS is=O pleasant=O ,=O fun=O ,=O and=O for=O the=O most=O part=O gorgeous=O in=O the=O wonderful=O aesthetic=O beautification=O way=O ,=O not=O in=O that=O she's-way-cuter-than-me-that-b=O @=O #=O $=O *=O way=O .=O
+Its location is good and the fact that Hutner College is near and their prices are very reasonable, makes students go back to Suan again and again.####Its=O location=T-POS is=O good=O and=O the=O fact=O that=O Hutner=O College=O is=O near=O and=O their=O prices=O are=O very=O reasonable=O ,=O makes=O students=O go=O back=O to=O Suan=T-POS again=O and=O again=O .=O
+if you're daring, try the balsamic vinegar over icecream, it's wonderful!####if=O you=O 're=O daring=O ,=O try=O the=O balsamic=T-POS vinegar=T-POS over=T-POS icecream=T-POS ,=O it=O 's=O wonderful=O !=O
+After passing by this restaurant for sometime I finally decided to go in and have dinner.####After=O passing=O by=O this=O restaurant=O for=O sometime=O I=O finally=O decided=O to=O go=O in=O and=O have=O dinner=O .=O
+The menu consisted of standard brassiere food, better then places like Balthazar etc.####The=O menu=O consisted=O of=O standard=O brassiere=O food=O ,=O better=O then=O places=O like=O Balthazar=O etc=O .=O
+the pad se ew chicken was delicious, however the pad thai was far too oily.####the=O pad=T-POS se=T-POS ew=T-POS chicken=T-POS was=O delicious=O ,=O however=O the=O pad=T-NEG thai=T-NEG was=O far=O too=O oily=O .=O
+Service is fast and friendly.####Service=T-POS is=O fast=O and=O friendly=O .=O
+If celebrities make you sweat, then your in for a ride, but if your like most around these parts then you'll just yawn and wonder whats with all the hype.####If=O celebrities=O make=O you=O sweat=O ,=O then=O your=O in=O for=O a=O ride=O ,=O but=O if=O your=O like=O most=O around=O these=O parts=O then=O you=O 'll=O just=O yawn=O and=O wonder=O whats=O with=O all=O the=O hype=O .=O
+I've eaten at many different Indian restaurants.####I=O 've=O eaten=O at=O many=O different=O Indian=O restaurants=O .=O
+The appetizing is excellent - just as good as Zabars Barney Greengrass at a reasonable price (if bought by the pound).####The=O appetizing=O is=O excellent=O ,=O just=O as=O good=O as=O Zabars=O Barney=O Greengrass=O at=O a=O reasonable=O price=O if=O bought=O by=O the=O pound=O .=O
+Go there to relax and feel like your somewhere else.####Go=O there=O to=O relax=O and=O feel=O like=O your=O somewhere=O else=O .=O
+Great food, great decor, great service.####Great=O food=T-POS ,=O great=O decor=T-POS ,=O great=O service=T-POS .=O
+This is the perfect spot for meeting friends, having lunch, dinner, pre-theatre or after-theatre drinks!####This=O is=O the=O perfect=O spot=T-POS for=O meeting=O friends=O ,=O having=O lunch=O ,=O dinner=O ,=O pre-theatre=O or=O after-theatre=O drinks=O !=O
+Wonderful at holiday time.####Wonderful=O at=O holiday=O time=O .=O
+The porcini mushroom pasta special was tasteless, so was the seafood tagliatelle.####The=O porcini=T-NEG mushroom=T-NEG pasta=T-NEG special=T-NEG was=O tasteless=O ,=O so=O was=O the=O seafood=T-NEG tagliatelle=T-NEG .=O
+A real dissapointment.####A=O real=O dissapointment=O .=O
+I recently tried Suan and I thought that it was great.####I=O recently=O tried=O Suan=T-POS and=O I=O thought=O that=O it=O was=O great=O .=O
+Good food.####Good=O food=T-POS .=O
+Ravioli was good...but I have to say that I found everything a bit overpriced.####Ravioli=T-POS was=O goodbut=O I=O have=O to=O say=O that=O I=O found=O everything=O a=O bit=O overpriced=O .=O
+Faan is sooo good.####Faan=T-POS is=O sooo=O good=O .=O
+bottles of wine are cheap and good.####bottles=T-POS of=T-POS wine=T-POS are=O cheap=O and=O good=O .=O
+This is an amazing place to try some roti rolls.####This=O is=O an=O amazing=O place=O to=O try=O some=O roti=T-POS rolls=T-POS .=O
+The food's as good as ever.####The=O food=T-POS 's=O as=O good=O as=O ever=O .=O
+Excellent dumplings served amid clean, chic decor.####Excellent=O dumplings=T-POS served=O amid=O clean=O ,=O chic=O decor=T-POS .=O
+I won't go back unless someone else is footing the bill.####I=O wo=O n't=O go=O back=O unless=O someone=O else=O is=O footing=O the=O bill=O .=O
+The portions are small but being that the food was so good makes up for that.####The=O portions=T-NEG are=O small=O but=O being=O that=O the=O food=T-POS was=O so=O good=O makes=O up=O for=O that=O .=O
+Service is not what you are coming here for...####Service=T-NEG is=O not=O what=O you=O are=O coming=O here=O for=O .=O
+No thanks!!!####No=O thanks=O !=O !=O !=O
+The only problem is that the manager is a complete incompetent.####The=O only=O problem=O is=O that=O the=O manager=T-NEG is=O a=O complete=O incompetent=O .=O
+Hey, I think $2+ for a 5 block walk ain't bad.####Hey=O ,=O I=O think=O $=O 2+=O for=O a=O 5=O block=O walk=O ai=O n't=O bad=O .=O
+I plan on stopping by next week as well.####I=O plan=O on=O stopping=O by=O next=O week=O as=O well=O .=O
+I recommend this place to everyone.####I=O recommend=O this=O place=T-POS to=O everyone=O .=O
+An awesome organic dog, and a conscious eco friendly establishment.####An=O awesome=O organic=O dog=T-POS ,=O and=O a=O conscious=O eco=O friendly=O establishment=T-POS .=O
+I paid just about $60 for a good meal, though :)####I=O paid=O just=O about=O $=O 60=O for=O a=O good=O meal=T-POS ,=O though=O ,=O
+Great sake!####Great=O sake=T-POS !=O
+Delivery guy sometimes get upset if you don't tip more than 10%.####Delivery=T-NEG guy=T-NEG sometimes=O get=O upset=O if=O you=O do=O n't=O tip=O more=O than=O 10=O %=O .=O
+Creative, consistent, fresh.####Creative=O ,=O consistent=O ,=O fresh=O .=O
+The place is a bit hidden away, but once you get there, it's all worth it.####The=O place=T-NEU is=O a=O bit=O hidden=O away=O ,=O but=O once=O you=O get=O there=O ,=O it=O 's=O all=O worth=O it=O .=O
+My wife and I went to Water's Edge for a romantic dinner.####My=O wife=O and=O I=O went=O to=O Water=O 's=O Edge=O for=O a=O romantic=O dinner=O .=O
+lobster was good, nothing spectacular.####lobster=T-NEU was=O good=O ,=O nothing=O spectacular=O .=O
+I thought the restaurant was nice and clean.####I=O thought=O the=O restaurant=T-POS was=O nice=O and=O clean=O .=O
+Red Dragon Roll - my favorite thing to eat, of any food group - hands down####Red=T-POS Dragon=T-POS Roll=T-POS ,=O my=O favorite=O thing=O to=O eat=O ,=O of=O any=O food=O group=O ,=O hands=O down=O
+I have eaten at some of the 'best' sushi joints in NYC (Nobu, Bond Street, JewelBako, etc) and Yamato is my favorite.####I=O have=O eaten=O at=O some=O of=O the=O best=O sushi=O joints=O in=O NYC=O Nobu=O ,=O Bond=O Street=O ,=O JewelBako=O ,=O etc=O and=O Yamato=O is=O my=O favorite=O .=O
+The Dancing, White River and Millenium rolls are musts.####The=O Dancing,=T-POS White=T-POS River=T-POS and=T-POS Millenium=T-POS rolls=T-POS are=O musts=O .=O
+When I got there the place was packed but they made sure to seat me quickly.####When=O I=O got=O there=O the=O place=O was=O packed=O but=O they=O made=O sure=O to=O seat=O me=O quickly=O .=O
+We were offered water for the table but were not told the Voss bottles of water were $8 a piece.####We=O were=O offered=O water=O for=O the=O table=O but=O were=O not=O told=O the=O Voss=T-NEG bottles=T-NEG of=T-NEG water=T-NEG were=O $=O 8=O a=O piece=O .=O
+MMMMMMMMMmmmmmm so delicious####MMMMMMMMMmmmmmm=O so=O delicious=O
+Also, I personally wasn't a fan of the portobello and asparagus mole.####Also=O ,=O I=O personally=O was=O n't=O a=O fan=O of=O the=O portobello=T-NEG and=T-NEG asparagus=T-NEG mole=T-NEG .=O
+The veal was incredible last night.####The=O veal=T-POS was=O incredible=O last=O night=O .=O
+Skip Nathan's...you can get that at the mall...go to Bark.####Skip=O Nathan'syou=O can=O get=O that=O at=O the=O mallgo=O to=O Bark=O .=O
+Most of the booths allow you to sit next to eachother without looking like 'that' couple.####Most=O of=O the=O booths=T-POS allow=O you=O to=O sit=O next=O to=O eachother=O without=O looking=O like=O that=O couple=O .=O
+Ruth, mother of the Bride####Ruth=O ,=O mother=O of=O the=O Bride=O
+$170 down the toilet...####$=O 170=O down=O the=O toilet=O .=O
+The service was extremely fast and attentive(thanks to the service button on your table) but I barely understood 1 word when the waiter took our order.####The=O service=T-POS was=O extremely=O fast=O and=O attentivethanks=O to=O the=O service=T-POS button=O on=O your=O table=O but=O I=O barely=O understood=O 1=O word=O when=O the=O waiter=T-NEG took=O our=O order=O .=O
+Over all the looks of the place exceeds the actual meals.####Over=O all=O the=O looks=T-POS of=O the=O place=O exceeds=O the=O actual=O meals=T-NEG .=O
+Sometimes tables don't understand his sense of humor but it's refreshing to have a server who has personality, professionalism, and respects the privacy of your dinner.####Sometimes=O tables=O do=O n't=O understand=O his=O sense=O of=O humor=O but=O it=O 's=O refreshing=O to=O have=O a=O server=T-POS who=O has=O personality=O ,=O professionalism=O ,=O and=O respects=O the=O privacy=O of=O your=O dinner=O .=O
+peppers, onions, relish, chilli, cheeses, you NAME it.####peppers=O ,=O onions=O ,=O relish=O ,=O chilli=O ,=O cheeses=O ,=O you=O NAME=O it=O .=O
+Highly impressed from the decor to the food to the hospitality to the great night I had!####Highly=O impressed=O from=O the=O decor=T-POS to=O the=O food=T-POS to=O the=O hospitality=O to=O the=O great=O night=O I=O had=O !=O
+Great find in the West Village!####Great=O find=O in=O the=O West=O Village=O !=O
+The menu looked great, and the waiter was very nice, but when the food came, it was average.####The=O menu=T-POS looked=O great=O ,=O and=O the=O waiter=T-POS was=O very=O nice=O ,=O but=O when=O the=O food=T-NEU came=O ,=O it=O was=O average=O .=O
+The manager finally said he would comp the two glasses of wine (which cost less than the food), and made it seem like a big concession.####The=O manager=T-NEG finally=O said=O he=O would=O comp=O the=O two=O glasses=O of=O wine=O which=O cost=O less=O than=O the=O food=O ,=O and=O made=O it=O seem=O like=O a=O big=O concession=O .=O
+A fairly late entry into the haute barnyard sweepstakes, Flatbush Farm isn't in the same league as the Blue Hills or even the Farm on Adderlys of the world, but it's pretty good, albeit with a somewhat dismal setting.####A=O fairly=O late=O entry=O into=O the=O haute=O barnyard=O sweepstakes=O ,=O Flatbush=O Farm=O is=O n't=O in=O the=O same=O league=O as=O the=O Blue=O Hills=O or=O even=O the=O Farm=O on=O Adderlys=O of=O the=O world=O ,=O but=O it=O 's=O pretty=O good=O ,=O albeit=O with=O a=O somewhat=O dismal=O setting=O .=O
+I do not recommend.####I=O do=O not=O recommend=O .=O
+The food is flavorful, plentiful and reasonably priced.####The=O food=T-POS is=O flavorful=O ,=O plentiful=O and=O reasonably=O priced=O .=O
+Very pleased####Very=O pleased=O
+never swaying, never a bad meal, never bad service...####never=O swaying=O ,=O never=O a=O bad=O meal=T-POS ,=O never=O bad=O service=T-POS .=O
+This place has great indian chinese food.####This=O place=O has=O great=O indian=T-POS chinese=T-POS food=T-POS .=O
+The martinis are amazing and very fairly priced.####The=O martinis=T-POS are=O amazing=O and=O very=O fairly=O priced=O .=O
+Are you freaking kidding me?####Are=O you=O freaking=O kidding=O me=O ?=O
+Surprised that a place of this caliber would advertise it as Kobe.####Surprised=O that=O a=O place=O of=O this=O caliber=O would=O advertise=O it=O as=O Kobe=O .=O
+Bison was quite excellent however.####Bison=T-POS was=O quite=O excellent=O however=O .=O
+Terrible Waste of money.. scammers####Terrible=O Waste=O of=O money=O scammers=O .=O
+I am actually offended to have spent so much money on such a bad experience.####I=O am=O actually=O offended=O to=O have=O spent=O so=O much=O money=O on=O such=O a=O bad=O experience=O .=O
+Our visit their to say the least, was an unpleasant and costly experience!####Our=O visit=O their=O to=O say=O the=O least=O ,=O was=O an=O unpleasant=O and=O costly=O experience=O !=O
+Probably would not go back here.####Probably=O would=O not=O go=O back=O here=O .=O
+I don't appreciate places or people that try to drive up the bill without the patron's knowledge so that was a huge turnoff (more than the price).####I=O do=O n't=O appreciate=O places=O or=O people=O that=O try=O to=O drive=O up=O the=O bill=O without=O the=O patron=O 's=O knowledge=O so=O that=O was=O a=O huge=O turnoff=O more=O than=O the=O price=O .=O
+But if you're prepared to spend some $ and remember to ask if something they offer is complimentary, then this is the place to go for Indian food####But=O if=O you=O 're=O prepared=O to=O spend=O some=O $=O and=O remember=O to=O ask=O if=O something=O they=O offer=O is=O complimentary=O ,=O then=O this=O is=O the=O place=T-NEG to=O go=O for=O Indian=T-POS food=T-POS
+Wretched and retching####Wretched=O and=O retching=O
+For starters they delivered us someone else's order.####For=O starters=O they=O delivered=O us=O someone=O else=O 's=O order=O .=O
+However, once I received my predictably mediocre order of what Dokebi thinks passes as Korean fair, (sometimes you have to settle when it's your only option), I got through about half my kimchee before I found a piece of random lettuce accompanied by a far more disgusting, slimy, clearly bad piece of fish skin.####However=O ,=O once=O I=O received=O my=O predictably=O mediocre=O order=O of=O what=O Dokebi=O thinks=O passes=O as=O Korean=T-NEG fair=T-NEG ,=O sometimes=O you=O have=O to=O settle=O when=O it=O 's=O your=O only=O option=O ,=O I=O got=O through=O about=O half=O my=O kimchee=T-NEG before=O I=O found=O a=O piece=O of=O random=O lettuce=O accompanied=O by=O a=O far=O more=O disgusting=O ,=O slimy=O ,=O clearly=O bad=O piece=O of=O fish=O skin=O .=O
+Less than three minutes passed before I found myself doubled over the toilet.####Less=O than=O three=O minutes=O passed=O before=O I=O found=O myself=O doubled=O over=O the=O toilet=O .=O
+I book a gorgeous white organza tent which included a four course prix fix menu which we enjoyed a lot.####I=O book=O a=O gorgeous=O white=T-POS organza=T-POS tent=T-POS which=O included=O a=O four=T-POS course=T-POS prix=T-POS fix=T-POS menu=T-POS which=O we=O enjoyed=O a=O lot=O .=O
+The service was spectacular as the waiter knew everything about the menu and his recommendations were amazing!####The=O service=T-POS was=O spectacular=O as=O the=O waiter=T-POS knew=O everything=O about=O the=O menu=O and=O his=O recommendations=O were=O amazing=O !=O
+The dishes came out around 5 minutes apart.####The=O dishes=O came=O out=O around=O 5=O minutes=O apart=O .=O
+The side dishes were passable, and I did get a refill upon request.####The=O side=T-NEU dishes=T-NEU were=O passable=O ,=O and=O I=O did=O get=O a=O refill=O upon=O request=O .=O
+Authentic Korean food lovers should visit 32nd Street, of course.####Authentic=O Korean=O food=O lovers=O should=O visit=O 32nd=O Street=O ,=O of=O course=O .=O
+The wife had the risotto which was amazing.####The=O wife=O had=O the=O risotto=T-POS which=O was=O amazing=O .=O
+We started off with a delightful sashimi amuse bouche.####We=O started=O off=O with=O a=O delightful=O sashimi=T-POS amuse=T-POS bouche=T-POS .=O
+To be honest we only ever eat the Shabu Shabu.####To=O be=O honest=O we=O only=O ever=O eat=O the=O Shabu=O Shabu=O .=O
+In fact there is only one I've tried that even compares (shabu Tatsu) and even then I prefer Dokebi.####In=O fact=O there=O is=O only=O one=O I=O 've=O tried=O that=O even=O compares=O shabu=O Tatsu=O and=O even=O then=O I=O prefer=O Dokebi=O .=O
+The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too.####The=O meat=T-POS is=O fresh=O ,=O the=O sauces=T-POS are=O great=O ,=O you=O get=O kimchi=T-POS and=O a=O salad=T-POS free=O with=O your=O meal=T-POS and=O service=T-POS is=O good=O too=O .=O
+The hot dogs are good, yes, but the reason to get over here is the fantastic pork croquette sandwich, perfect on its supermarket squishy bun.####The=O hot=T-POS dogs=T-POS are=O good=O ,=O yes=O ,=O but=O the=O reason=O to=O get=O over=O here=O is=O the=O fantastic=O pork=T-POS croquette=T-POS sandwich=T-POS ,=O perfect=O on=O its=O supermarket=O squishy=O bun=T-POS .=O
+The family seafood entree was very good.####The=O family=T-POS seafood=T-POS entree=T-POS was=O very=O good=O .=O
+The food they serve is not comforting, not appetizing and uncooked.####The=O food=T-NEG they=O serve=O is=O not=O comforting=O ,=O not=O appetizing=O and=O uncooked=O .=O
+A coworker and I tried Pacifico after work a few Fridays and loved it.####A=O coworker=O and=O I=O tried=O Pacifico=T-POS after=O work=O a=O few=O Fridays=O and=O loved=O it=O .=O
+And how many times can you pick up the same perfectly aligned set of napkins, inspect them vapidly and plonk them down in exactly the same place instead of venturing a glance at people who are there to help you make the rent?####And=O how=O many=O times=O can=O you=O pick=O up=O the=O same=O perfectly=O aligned=O set=O of=O napkins=O ,=O inspect=O them=O vapidly=O and=O plonk=O them=O down=O in=O exactly=O the=O same=O place=O instead=O of=O venturing=O a=O glance=O at=O people=O who=O are=O there=O to=O help=O you=O make=O the=O rent=O ?=O
+Overall the food quality was pretty good, though I hear the salmon is much better when it hasn't sat cooling in front of the guest.####Overall=O the=O food=T-POS quality=O was=O pretty=O good=O ,=O though=O I=O hear=O the=O salmon=O is=O much=O better=O when=O it=O has=O n't=O sat=O cooling=O in=O front=O of=O the=O guest=O .=O
+The place has a nice fit-out, some attractive furnishings and, from what I could tell, a reasonable wine list (I was given the food menu when I asked for the carte des vins)####The=O place=O has=O a=O nice=O fit-out=T-POS ,=O some=O attractive=O furnishings=T-POS and=O ,=O from=O what=O I=O could=O tell=O ,=O a=O reasonable=O wine=T-POS list=T-POS I=O was=O given=O the=O food=O menu=O when=O I=O asked=O for=O the=O carte=O des=O vins=O
+Everything was going good until we got our meals.####Everything=O was=O going=O good=O until=O we=O got=O our=O meals=T-NEG .=O
+Sometimes you pay a lot and don't get much in return - it's manhattan, things are expensive.####Sometimes=O you=O pay=O a=O lot=O and=O do=O n't=O get=O much=O in=O return=O ,=O it=O 's=O manhattan=O ,=O things=O are=O expensive=O .=O
+Though it's been crowded most times I've gone here, Bark always delivers on their food.####Though=O it=O 's=O been=O crowded=O most=O times=O I=O 've=O gone=O here=O ,=O Bark=T-NEU always=O delivers=O on=O their=O food=T-POS .=O
+I'm a friendly person, so I wouldn't mind had she not been so nasty and gotten so personal. ####I=O 'm=O a=O friendly=O person=O ,=O so=O I=O would=O n't=O mind=O had=O she=O not=O been=O so=O nasty=O and=O gotten=O so=O personal=O .=O
+Here the hot dog is elevated to the level of a real entree with numerous variations available.####Here=O the=O hot=T-POS dog=T-POS is=O elevated=O to=O the=O level=O of=O a=O real=O entree=O with=O numerous=O variations=O available=O .=O
+Appetizers took nearly an hour.####Appetizers=O took=O nearly=O an=O hour=O .=O
+When we threatened to leave, we were offered a meager discount even though half the order was missing.####When=O we=O threatened=O to=O leave=O ,=O we=O were=O offered=O a=O meager=O discount=O even=O though=O half=O the=O order=O was=O missing=O .=O
+On the way out, we heard of other guests complaining about similar issues.####On=O the=O way=O out=O ,=O we=O heard=O of=O other=O guests=O complaining=O about=O similar=O issues=O .=O
+The design of the space is good.####The=O design=O of=O the=O space=T-POS is=O good=O .=O
+I couldn't ignore the fact that she reach over the plate of one of my friends, who was in mid bite, to clear the table.####I=O could=O n't=O ignore=O the=O fact=O that=O she=O reach=O over=O the=O plate=O of=O one=O of=O my=O friends=O ,=O who=O was=O in=O mid=O bite=O ,=O to=O clear=O the=O table=O .=O
