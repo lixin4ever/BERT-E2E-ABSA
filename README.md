@@ -72,13 +72,13 @@ Exploiting **BERT** **E**nd-**t**o-**E**nd **A**spect-**B**ased **S**entiment **
     | Model | rest14 | rest15 | rest16 |
     | --- | --- | --- | --- |
     | E2E-ABSA (OURS) | 67.10 | 57.27 | 64.31 |
-    | [He et al., 2019](https://arxiv.org/pdf/1906.06906.pdf) | 69.54 | 59.18 | - |
-    | [Liu et al., 2020](https://arxiv.org/pdf/2004.06427.pdf) | 68.91 | 58.37 | - |
+    | [He et al. (2019)](https://arxiv.org/pdf/1906.06906.pdf) | 69.54 | 59.18 | - |
+    | [Liu et al. (2020)](https://arxiv.org/pdf/2004.06427.pdf) | 68.91 | 58.37 | - |
     | BERT-Linear (OURS) | 72.61 | 59.47 | 69.84 |
     | BERT-GRU (OURS) | 73.17 | 59.54 | 69.53 |
     | BERT-SAN (OURS) | 73.51 | 59.88 | 70.23 |
-    | [Chen and Qian, 2019](https://www.aclweb.org/anthology/2020.acl-main.340.pdf)| 75.42 | 66.05 | - |
-    | [Liang et al., 2020](https://arxiv.org/pdf/2004.01951.pdf)| 72.60 | 62.37 | - |
+    | [Chen and Qian (2019)](https://www.aclweb.org/anthology/2020.acl-main.340.pdf)| 75.42 | 66.05 | - |
+    | [Liang et al. (2020)](https://arxiv.org/pdf/2004.01951.pdf)| 72.60 | 62.37 | - |
 
 ## Citation
 If the code is used in your research, please star our repo and cite our paper as follows:
