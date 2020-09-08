@@ -23,7 +23,8 @@ Exploiting **BERT** **E**nd-**t**o-**E**nd **A**spect-**B**ased **S**entiment **
 
 ## Dataset
 * ~~Restaurant: retaurant reviews from SemEval 2014 (task 4), SemEval 2015 (task 12) and SemEval 2016 (task 5) (rest_total)~~
-* (**Important**) Restaurant: restaurant reviews from SemEval 2014 (rest14), restaurant reviews from SemEval 2015 (rest15), restaurant reviews from SemEval 2016 (rest16). Please **DO NOT** use the ```rest_total``` dataset built by ourselves again, more details can be found in Sec. **Updated Results**.
+* (**Important**) Restaurant: restaurant reviews from SemEval 2014 (rest14), restaurant reviews from SemEval 2015 (rest15), restaurant reviews from SemEval 2016 (rest16). Please refer to the newly updated files in ```./data```
+* (**Important**) **DO NOT** use the ```rest_total``` dataset built by ourselves again, more details can be found in **Updated Results**.
 * Laptop: laptop reviews from SemEval 2014 (laptop14)
 
 
