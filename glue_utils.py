@@ -27,6 +27,7 @@ from seq_utils import *
 
 logger = logging.getLogger(__name__)
 
+SMALL_POSITIVE_CONST = 1e-4
 
 class InputExample(object):
     """A single training/test example for simple sequence classification."""
@@ -491,9 +492,9 @@ def compute_metrics_absa(preds, labels, all_evaluate_label_ids, tagging_schema):
         n_ts = n_tp_ts[i]
         n_g_ts = n_gold_ts[i]
         n_p_ts = n_pred_ts[i]
-        ts_precision[i] = float(n_ts) / float(n_p_ts + 0.00001)
-        ts_recall[i] = float(n_ts) / float(n_g_ts + 0.00001)
-        ts_f1[i] = 2 * ts_precision[i] * ts_recall[i] / (ts_precision[i] + ts_recall[i] + 0.00001)
+        ts_precision[i] = float(n_ts) / float(n_p_ts + SMALL_POSITIVE_CONST)
+        ts_recall[i] = float(n_ts) / float(n_g_ts + SMALL_POSITIVE_CONST)
+        ts_f1[i] = 2 * ts_precision[i] * ts_recall[i] / (ts_precision[i] + ts_recall[i] + SMALL_POSITIVE_CONST)
 
     macro_f1 = ts_f1.mean()
 
@@ -506,9 +507,9 @@ def compute_metrics_absa(preds, labels, all_evaluate_label_ids, tagging_schema):
 
     # TP + FP
     n_p_total = sum(n_pred_ts)
-    micro_p = float(n_tp_total) / (n_p_total + 0.001)
-    micro_r = float(n_tp_total) / (n_g_total + 0.001)
-    micro_f1 = 2 * micro_p * micro_r / (micro_p + micro_r + 0.001)
+    micro_p = float(n_tp_total) / (n_p_total + SMALL_POSITIVE_CONST)
+    micro_r = float(n_tp_total) / (n_g_total + SMALL_POSITIVE_CONST)
+    micro_f1 = 2 * micro_p * micro_r / (micro_p + micro_r + SMALL_POSITIVE_CONST)
     scores = {'macro-f1': macro_f1, 'precision': micro_p, "recall": micro_r, "micro-f1": micro_f1}
     return scores
 
