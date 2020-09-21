@@ -75,9 +75,11 @@ Exploiting **BERT** **E**nd-**t**o-**E**nd **A**spect-**B**ased **S**entiment **
     | E2E-ABSA (OURS) | 67.10 | 57.27 | 64.31 |
     | [He et al. (2019)](https://arxiv.org/pdf/1906.06906.pdf) | 69.54 | 59.18 | - |
     | [Liu et al. (2020)](https://arxiv.org/pdf/2004.06427.pdf) | 68.91 | 58.37 | - |
-    | BERT-Linear (OURS) | 72.61 | 59.47 | 69.84 |
-    | BERT-GRU (OURS) | 73.17 | 59.54 | 69.53 |
-    | BERT-SAN (OURS) | 73.51 | 59.88 | 70.23 |
+    | BERT-Linear (OURS) | 72.61 | 60.29 | 69.67 |
+    | BERT-GRU (OURS) | 73.17 | 59.60 | 70.21 |
+    | BERT-SAN (OURS) | 73.68 | 59.90 | 70.51 |
+    | BERT-TFM (OURS) | 73.98 | 60.24 | 70.25 |
+    | BERT-CRF (OURS) | 73.17 | 60.70 | 70.37 |
     | [Chen and Qian (2019)](https://www.aclweb.org/anthology/2020.acl-main.340.pdf)| 75.42 | 66.05 | - |
     | [Liang et al. (2020)](https://arxiv.org/pdf/2004.01951.pdf)| 72.60 | 62.37 | - |
 
