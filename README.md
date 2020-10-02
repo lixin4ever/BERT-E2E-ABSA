@@ -35,7 +35,7 @@ Exploiting **BERT** **E**nd-**t**o-**E**nd **A**spect-**B**ased **S**entiment **
   
   b. [Representing Text Chunks](https://www.aclweb.org/anthology/E99-1023.pdf). 
   
-  c. The [paper](https://www.aclweb.org/anthology/D19-5505.pdf) associated with project. 
+  c. The [paper](https://www.aclweb.org/anthology/D19-5505.pdf) associated with this project. 
 
 * Reproduce the results on Restaurant and Laptop dataset:
   ```
