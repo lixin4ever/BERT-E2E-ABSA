@@ -56,7 +56,7 @@ Exploiting **BERT** **E**nd-**t**o-**E**nd **A**spect-**B**ased **S**entiment **
   
   2. set `TASK_NAME` in `work.sh` as `[YOUR_EVAL_DATASET_NAME]`
   
-  3. set `ABSA_HOME` in `work.sh` as `[HOME_DIRECTORY_OF_YOUR_ABSA_MODEL]`
+  3. set `ABSA_HOME` in `work.sh` as `[HOME_DIRECTORY_OF_PRETRAINED_ABSA_MODEL]`
   
   4. run: `sh work.sh`
 
