@@ -1,20 +1,20 @@
-Boot time is super fast, around anywhere from 35 seconds to 1 minute.####Boot=T-POS time=T-POS is=O super=O fast=O ,=O around=O anywhere=O from=O 35=O seconds=O to=O 1=O minute=O .=O
-tech support would not fix the problem unless I bought your plan for $150 plus.####tech=T-NEG support=T-NEG would=O not=O fix=O the=O problem=O unless=O I=O bought=O your=O plan=O for=O $=O 150=O plus=O .=O
-but in resume this computer rocks!####but=O in=O resume=O this=O computer=O rocks=O !=O
-Set up was easy.####Set=T-POS up=T-POS was=O easy=O .=O
-Did not enjoy the new Windows 8 and touchscreen functions.####Did=O not=O enjoy=O the=O new=O Windows=T-NEG 8=T-NEG and=O touchscreen=T-NEG functions=T-NEG .=O
-I expected so as it's an Apple product, but I was glad to see my expectations exceeded, this is THE laptop to buy right now.####I=O expected=O so=O as=O it=O 's=O an=O Apple=O product=O ,=O but=O I=O was=O glad=O to=O see=O my=O expectations=O exceeded=O ,=O this=O is=O THE=O laptop=O to=O buy=O right=O now=O .=O
-Other than not being a fan of click pads (industry standard these days) and the lousy internal speakers, it's hard for me to find things about this notebook I don't like, especially considering the $350 price tag.####Other=O than=O not=O being=O a=O fan=O of=O click=T-NEG pads=T-NEG industry=O standard=O these=O days=O and=O the=O lousy=O internal=T-NEG speakers=T-NEG ,=O it=O 's=O hard=O for=O me=O to=O find=O things=O about=O this=O notebook=O I=O do=O n't=O like=O ,=O especially=O considering=O the=O $=O 350=O price=T-POS tag=T-POS .=O
-excellent in every way.####excellent=O in=O every=O way=O .=O
-No installation disk (DVD) is included.####No=O installation=T-NEU disk=T-NEU (DVD)=T-NEU is=O included=O .=O
-It's fast, light, and simple to use.####It=O 's=O fast=O ,=O light=O ,=O and=O simple=O to=O use=T-POS .=O
-Works well, and I am extremely happy to be back to an apple OS.####Works=T-POS well=O ,=O and=O I=O am=O extremely=O happy=O to=O be=O back=O to=O an=O apple=T-POS OS=T-POS .=O
-This mac has been a problem since we got it.####This=O mac=O has=O been=O a=O problem=O since=O we=O got=O it=O .=O
-Sure it's not light and slim but the features make up for it 100%.####Sure=O it=O 's=O not=O light=O and=O slim=O but=O the=O features=T-POS make=O up=O for=O it=O 100=O %=O .=O
-I am pleased with the fast log on, speedy WiFi connection and the long battery life (>6 hrs).####I=O am=O pleased=O with=O the=O fast=O log=T-POS on=T-POS ,=O speedy=O WiFi=T-POS connection=T-POS and=O the=O long=O battery=T-POS life=T-POS >=O 6=O hrs=O .=O
-The Apple engineers have not yet discovered the delete key.####The=O Apple=O engineers=O have=O not=O yet=O discovered=O the=O delete=T-NEG key=T-NEG .=O
-Made interneting (part of my business) very difficult to maintain.####Made=O interneting=T-NEG part=O of=O my=O business=O very=O difficult=O to=O maintain=O .=O
-Luckily, for all of us contemplating the decision, the Mac Mini is priced just right.####Luckily=O ,=O for=O all=O of=O us=O contemplating=O the=O decision=O ,=O the=O Mac=O Mini=O is=O priced=T-POS just=O right=O .=O
-Small and still VERY powerful.####Small=O and=O still=O VERY=O powerful=O .=O
-I had gotten this model for  $1199.00 on my State's tax-free weekend and had a $100 off coupon for a MacBook at the local BestBuy!####I=O had=O gotten=O this=O model=O for=O $=O 119900=O on=O my=O State=O 's=O tax-free=O weekend=O and=O had=O a=O $=O 100=O off=O coupon=O for=O a=O MacBook=O at=O the=O local=O BestBuy=O !=O .=O
-Super light, super sexy and everything just works.####Super=O light=O ,=O super=O sexy=O and=O everything=O just=O works=T-POS .=O
+Yum!####Yum=O !=O
+Serves really good sushi.####Serves=O really=O good=O sushi=T-POS .=O
+Not the biggest portions but adequate.####Not=O the=O biggest=O portions=T-NEU but=O adequate=O .=O
+Green Tea creme brulee is a must!####Green=T-POS Tea=T-POS creme=T-POS brulee=T-POS is=O a=O must=O !=O
+Don't leave the restaurant without it.####Do=O n't=O leave=O the=O restaurant=O without=O it=O .=O
+No Comparison####No=O Comparison=O
+– I can't say enough about this place.####I=O ca=O n't=O say=O enough=O about=O this=O place=T-POS .=O
+It has great sushi and even better service.####It=O has=O great=O sushi=T-POS and=O even=O better=O service=T-POS .=O
+The entire staff was extremely accomodating and tended to my every need.####The=O entire=O staff=T-POS was=O extremely=O accomodating=O and=O tended=O to=O my=O every=O need=O .=O
+I've been to this restaurant over a dozen times with no complaints to date.####I=O 've=O been=O to=O this=O restaurant=T-POS over=O a=O dozen=O times=O with=O no=O complaints=O to=O date=O .=O
+Snotty Attitude####Snotty=O Attitude=O
+– We were treated very rudely here one time for breakfast.####We=O were=O treated=O very=O rudely=O here=O one=O time=O for=O breakfast=O .=O
+The owner is belligerent to guests that have a complaint.####The=O owner=T-NEG is=O belligerent=O to=O guests=O that=O have=O a=O complaint=O .=O
+Good food!####Good=O food=T-POS !=O
+– We love breakfast food.####We=O love=O breakfast=O food=O .=O
+This is a great place to get a delicious meal.####This=O is=O a=O great=O place=O to=O get=O a=O delicious=O meal=T-POS .=O
+We never had to wait more than 5 minutes.####We=O never=O had=O to=O wait=O more=O than=O 5=O minutes=O .=O
+The staff is pretty friendly.####The=O staff=T-POS is=O pretty=O friendly=O .=O
+The onion rings are great!####The=O onion=T-POS rings=T-POS are=O great=O !=O
+They are not greasy or anything.####They=O are=O not=O greasy=O or=O anything=O .=O
