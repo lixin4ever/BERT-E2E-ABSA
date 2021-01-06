@@ -8,7 +8,7 @@ import numpy as np
 from glue_utils import convert_examples_to_seq_features, output_modes, processors, compute_metrics_absa
 from tqdm import tqdm, trange
 from transformers import BertConfig, BertTokenizer, XLNetConfig, XLNetTokenizer, WEIGHTS_NAME
-from transformers import AdamW, WarmupLinearSchedule
+from transformers import AdamW, get_linear_schedule_with_warmup
 from absa_layer import BertABSATagger, XLNetABSATagger
 
 from torch.utils.data import DataLoader, TensorDataset, RandomSampler, SequentialSampler
@@ -21,7 +21,27 @@ import json
 
 logger = logging.getLogger(__name__)
 
-ALL_MODELS = sum((tuple(conf.pretrained_config_archive_map.keys()) for conf in (BertConfig, XLNetConfig)), ())
+#ALL_MODELS = sum((tuple(conf.pretrained_config_archive_map.keys()) for conf in (BertConfig, XLNetConfig)), ())
+ALL_MODELS = (
+     'bert-base-uncased',
+ 'bert-large-uncased',
+ 'bert-base-cased',
+ 'bert-large-cased',
+ 'bert-base-multilingual-uncased',
+ 'bert-base-multilingual-cased',
+ 'bert-base-chinese',
+ 'bert-base-german-cased',
+ 'bert-large-uncased-whole-word-masking',
+ 'bert-large-cased-whole-word-masking',
+ 'bert-large-uncased-whole-word-masking-finetuned-squad',
+ 'bert-large-cased-whole-word-masking-finetuned-squad',
+ 'bert-base-cased-finetuned-mrpc',
+ 'bert-base-german-dbmdz-cased',
+ 'bert-base-german-dbmdz-uncased',
+ 'xlnet-base-cased',
+ 'xlnet-large-cased'
+)
+
 
 MODEL_CLASSES = {
     'bert': (BertConfig, BertABSATagger, BertTokenizer),
@@ -154,7 +174,7 @@ def train(args, train_dataset, model, tokenizer):
         {'params': [p for n, p in model.named_parameters() if any(nd in n for nd in no_decay)], 'weight_decay': 0.0}
         ]
     optimizer = AdamW(optimizer_grouped_parameters, lr=args.learning_rate, eps=args.adam_epsilon)
-    scheduler = WarmupLinearSchedule(optimizer, warmup_steps=args.warmup_steps, t_total=t_total)
+    scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps=args.warmup_steps, num_training_steps=t_total)
 
     # Train!
 
@@ -401,7 +421,7 @@ def main():
     args.model_type = args.model_type.lower()
     config_class, model_class, tokenizer_class = MODEL_CLASSES[args.model_type]
     config = config_class.from_pretrained(args.config_name if args.config_name else args.model_name_or_path,
-                                          num_labels=num_labels, finetuning_task=args.task_name)
+                                          num_labels=num_labels, finetuning_task=args.task_name, cache_dir="./cache")
     tokenizer = tokenizer_class.from_pretrained(args.tokenizer_name if args.tokenizer_name else args.model_name_or_path,
                                                 do_lower_case=args.do_lower_case, cache_dir='./cache')
 

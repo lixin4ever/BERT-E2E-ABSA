@@ -10,7 +10,27 @@ from absa_layer import BertABSATagger
 from torch.utils.data import DataLoader, TensorDataset, SequentialSampler
 from seq_utils import ot2bieos_ts, bio2ot_ts, tag2ts
 
-ALL_MODELS = sum((tuple(conf.pretrained_config_archive_map.keys()) for conf in (BertConfig, XLNetConfig)), ())
+#ALL_MODELS = sum((tuple(conf.pretrained_config_archive_map.keys()) for conf in (BertConfig, XLNetConfig)), ())
+ALL_MODELS = (
+     'bert-base-uncased',
+ 'bert-large-uncased',
+ 'bert-base-cased',
+ 'bert-large-cased',
+ 'bert-base-multilingual-uncased',
+ 'bert-base-multilingual-cased',
+ 'bert-base-chinese',
+ 'bert-base-german-cased',
+ 'bert-large-uncased-whole-word-masking',
+ 'bert-large-cased-whole-word-masking',
+ 'bert-large-uncased-whole-word-masking-finetuned-squad',
+ 'bert-large-cased-whole-word-masking-finetuned-squad',
+ 'bert-base-cased-finetuned-mrpc',
+ 'bert-base-german-dbmdz-cased',
+ 'bert-base-german-dbmdz-uncased',
+ 'xlnet-base-cased',
+ 'xlnet-large-cased'
+)
+
 
 MODEL_CLASSES = {
     'bert': (BertConfig, BertABSATagger, BertTokenizer),
