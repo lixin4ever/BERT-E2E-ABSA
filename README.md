@@ -6,8 +6,8 @@ Exploiting **BERT** **E**nd-**t**o-**E**nd **A**spect-**B**ased **S**entiment **
 
 ## Requirements
 * python 3.7.3
-* pytorch 1.2.0
-* transformers 2.0.0
+* pytorch 1.2.0 (also tested on pytorch 1.3.0)
+* ~~transformers 2.0.0~~ transformers 4.1.1
 * numpy 1.16.4
 * tensorboardX 1.9
 * tqdm 4.32.1
