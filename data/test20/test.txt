@@ -1,0 +1,20 @@
+Boot time is super fast, around anywhere from 35 seconds to 1 minute.####Boot=T-POS time=T-POS is=O super=O fast=O ,=O around=O anywhere=O from=O 35=O seconds=O to=O 1=O minute=O .=O
+tech support would not fix the problem unless I bought your plan for $150 plus.####tech=T-NEG support=T-NEG would=O not=O fix=O the=O problem=O unless=O I=O bought=O your=O plan=O for=O $=O 150=O plus=O .=O
+but in resume this computer rocks!####but=O in=O resume=O this=O computer=O rocks=O !=O
+Set up was easy.####Set=T-POS up=T-POS was=O easy=O .=O
+Did not enjoy the new Windows 8 and touchscreen functions.####Did=O not=O enjoy=O the=O new=O Windows=T-NEG 8=T-NEG and=O touchscreen=T-NEG functions=T-NEG .=O
+I expected so as it's an Apple product, but I was glad to see my expectations exceeded, this is THE laptop to buy right now.####I=O expected=O so=O as=O it=O 's=O an=O Apple=O product=O ,=O but=O I=O was=O glad=O to=O see=O my=O expectations=O exceeded=O ,=O this=O is=O THE=O laptop=O to=O buy=O right=O now=O .=O
+Other than not being a fan of click pads (industry standard these days) and the lousy internal speakers, it's hard for me to find things about this notebook I don't like, especially considering the $350 price tag.####Other=O than=O not=O being=O a=O fan=O of=O click=T-NEG pads=T-NEG industry=O standard=O these=O days=O and=O the=O lousy=O internal=T-NEG speakers=T-NEG ,=O it=O 's=O hard=O for=O me=O to=O find=O things=O about=O this=O notebook=O I=O do=O n't=O like=O ,=O especially=O considering=O the=O $=O 350=O price=T-POS tag=T-POS .=O
+excellent in every way.####excellent=O in=O every=O way=O .=O
+No installation disk (DVD) is included.####No=O installation=T-NEU disk=T-NEU (DVD)=T-NEU is=O included=O .=O
+It's fast, light, and simple to use.####It=O 's=O fast=O ,=O light=O ,=O and=O simple=O to=O use=T-POS .=O
+Works well, and I am extremely happy to be back to an apple OS.####Works=T-POS well=O ,=O and=O I=O am=O extremely=O happy=O to=O be=O back=O to=O an=O apple=T-POS OS=T-POS .=O
+This mac has been a problem since we got it.####This=O mac=O has=O been=O a=O problem=O since=O we=O got=O it=O .=O
+Sure it's not light and slim but the features make up for it 100%.####Sure=O it=O 's=O not=O light=O and=O slim=O but=O the=O features=T-POS make=O up=O for=O it=O 100=O %=O .=O
+I am pleased with the fast log on, speedy WiFi connection and the long battery life (>6 hrs).####I=O am=O pleased=O with=O the=O fast=O log=T-POS on=T-POS ,=O speedy=O WiFi=T-POS connection=T-POS and=O the=O long=O battery=T-POS life=T-POS >=O 6=O hrs=O .=O
+The Apple engineers have not yet discovered the delete key.####The=O Apple=O engineers=O have=O not=O yet=O discovered=O the=O delete=T-NEG key=T-NEG .=O
+Made interneting (part of my business) very difficult to maintain.####Made=O interneting=T-NEG part=O of=O my=O business=O very=O difficult=O to=O maintain=O .=O
+Luckily, for all of us contemplating the decision, the Mac Mini is priced just right.####Luckily=O ,=O for=O all=O of=O us=O contemplating=O the=O decision=O ,=O the=O Mac=O Mini=O is=O priced=T-POS just=O right=O .=O
+Small and still VERY powerful.####Small=O and=O still=O VERY=O powerful=O .=O
+I had gotten this model for  $1199.00 on my State's tax-free weekend and had a $100 off coupon for a MacBook at the local BestBuy!####I=O had=O gotten=O this=O model=O for=O $=O 119900=O on=O my=O State=O 's=O tax-free=O weekend=O and=O had=O a=O $=O 100=O off=O coupon=O for=O a=O MacBook=O at=O the=O local=O BestBuy=O !=O .=O
+Super light, super sexy and everything just works.####Super=O light=O ,=O super=O sexy=O and=O everything=O just=O works=T-POS .=O
