@@ -1,5 +1,5 @@
 Yum!####Yum=O !=O
-Serves really good sushi.####Serves=O really=O good=O sushi=T-POS .=O
+Serves really good sushi!####Serves=O really=O good=O sushi=T-POS !=O
 Not the biggest portions but adequate.####Not=O the=O biggest=O portions=T-NEU but=O adequate=O .=O
 Green Tea creme brulee is a must!####Green=T-POS Tea=T-POS creme=T-POS brulee=T-POS is=O a=O must=O !=O
 Don't leave the restaurant without it.####Do=O n't=O leave=O the=O restaurant=O without=O it=O .=O
