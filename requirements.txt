@@ -1,5 +1,5 @@
 torch==1.2.0
 numpy==1.16.4
-transformers==2.0.0
+transformers==4.1.1
 tqdm==4.32.1
 tensorboardX==1.8
