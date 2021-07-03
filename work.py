@@ -186,11 +186,6 @@ def predict(args, model, tokenizer):
                 aspect = words[beg:end+1]
                 output_ts.append('%s: %s' % (aspect, sentiment))
             print("Input: %s, output: %s" % (' '.join(words), '\t'.join(output_ts)))
-            # for evaluation
-            if total_preds is None:
-                total_preds = preds
-            else:
-                total_preds = np.append(total_preds, preds, axis=0)
             if inputs['labels'] is not None:
                 # for the unseen data, there is no ``labels''
                 if gold_labels is None:
@@ -198,11 +193,6 @@ def predict(args, model, tokenizer):
                 else:
                     gold_labels = np.append(gold_labels, inputs['labels'].detach().cpu().numpy(), axis=0)
         idx += 1
-    if gold_labels is not None:
-        result = compute_metrics_absa(preds=total_preds, labels=gold_labels, all_evaluate_label_ids=evaluate_label_ids,
-                                      tagging_schema=args.tagging_schema)
-        for (k, v) in result.items():
-            print("%s: %s" % (k, v))
 
 
 if __name__ == "__main__":
