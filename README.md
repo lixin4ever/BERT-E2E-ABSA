@@ -68,7 +68,7 @@ Exploiting **BERT** **E**nd-**t**o-**E**nd **A**spect-**B**ased **S**entiment **
 
 ## Updated results (IMPORTANT)
 * The data files of the ```rest_total``` dataset are created by concatenating the train/test counterparts from ```rest14```, ```rest15``` and ```rest16``` and our motivation is to build a larger training/testing dataset to stabilize the training/faithfully reflect the capability of the ABSA model. However, we recently found that the SemEval organizers directly treat the union set of ```rest15.train``` and ```rest15.test``` as the training set of rest16 (i.e., ```rest16.train```), and thus, there exists overlap between the ```rest_total.train``` and the ```rest_total.test```, which makes this dataset invalid. When you follow our works on this E2E-ABSA task, we hope you **DO NOT** use this ```rest_total``` dataset any more but change to the officially released ```rest14```, ```rest15``` and ```rest16```.
-* To facilitate the comparison in the future, we re-run our models following the above mentioned settings and report the results on ```rest14```, ```rest15``` and ```rest16```:  
+* To facilitate the comparison in the future, we re-run our models following the above mentioned settings and report the results (***micro-averaged F1***) on ```rest14```, ```rest15``` and ```rest16```:  
 
     | Model | rest14 | rest15 | rest16 |
     | --- | --- | --- | --- |
