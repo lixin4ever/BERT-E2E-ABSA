@@ -1,0 +1,32 @@
+Deploy the model on Anvil 
+
+# We also need to have few changes in python file to run anvil code
+
+Anvil Code:
+
+from ._anvil_designer import Form1Template
+from anvil import *
+import anvil.server
+
+
+class Form1(Form1Template):
+  def __init__(self, **properties):
+    # Set Form properties and Data Bindings.
+    self.init_components(**properties)
+    
+    
+  def outlined_button_1_click(self, **event_args):
+    
+      """This method is called when the button is clicked"""
+      Sentiment_score = anvil.server.call('sentiment', self.sentence.text)
+      if Sentiment_score :
+            self.label.visible = True
+            self.label.text = "Result : ", Sentiment_scoret.capitalize()
+      
+
+  def rich_text_4_show(self, **event_args):
+      """This method is called when the RichText is shown on the screen"""
+      pass
+
+
+Connect Me : https://www.linkedin.com/in/tusharpaul2001/
